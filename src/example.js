@@ -1,4 +1,5 @@
 import React from 'react';
+import IfScreen from './ifscreen';
 
 const greeting = (a, b) => { // Logic Functions, no return JSX
 	alert("I have been executed")
